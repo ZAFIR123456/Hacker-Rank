@@ -1,6 +1,6 @@
 function miniMaxSum(arr) {
   // Write your code here
-//   let array = [];
+  //   let array = [];
   let maxSum = 0;
   let minSum = 0;
 
